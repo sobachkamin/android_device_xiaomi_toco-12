@@ -1,9 +1,9 @@
 [
     {
         "remote":       "github",
-        "repository":   "AndroidHQ254/android_device_xiaomi_sm6150-common",
+        "repository":   "toco-development/android_device_xiaomi_sm6150-common",
         "target_path":  "device/xiaomi/sm6150-common",
-        "revision":     "2.1"
+        "revision":     "12"
     },
     {
         "remote":       "github",
@@ -13,19 +13,18 @@
     },
     {
         "remote":       "github",
-        "repository":   "AndroidHQ254/vendor_xiaomi",
+        "repository":   "toco-development/vendor_xiaomi",
         "target_path":  "vendor/xiaomi",
-        "revision":     "hw"
+        "revision":     "12"
     },
     {
         "remote":       "github",
-        "repository":   "AndroidHQ254/vendor_xiaomi_google",
-        "target_path":  "vendor/xiaomi/google",
-        "revision":     "r11.0"
+        "repository":   "toco-development/vendor_xiaomi_google",
+        "target_path":  "vendor/xiaomi/google"
     },
     {
         "remote":       "github",
-        "repository":   "AndroidHQ254/proton-clang",
+        "repository":   "toco-development/proton-clang",
         "target_path":  "prebuilts/clang/host/linux-x86/clang-proton",
         "revision":     "proton"
         "clone-depth":  "1"
