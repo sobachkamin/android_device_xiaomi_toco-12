@@ -7,6 +7,9 @@ ro.vendor.audio.us.type=mius
 vendor.audio.feature.compr_voip.enable=false
 vendor.voice.path.for.pcm.voip=false
 
+# Graphics
+persist.hwc.disable_vds=1
+
 # Chipset
 ro.soc.manufacturer=Qualcomm
 ro.soc.model=SM7150
